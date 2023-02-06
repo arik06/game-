@@ -1,0 +1,85 @@
+body {
+    background-color: #f5f5f5;
+    font-family: "Anton", sans-serif;
+  }
+  
+  header,
+  footer {
+    text-align: center;
+    width: 300px;
+    margin: 30px auto 0px auto;
+  }
+  
+  main {
+    width: 300px;
+    margin: 30px auto 0px auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    font-size: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    display: inline;
+    width: 236px;
+    border: 1px solid #ced4da;
+    padding: 10px;
+    border-radius: 0px 5px 5px 0px;
+    font-weight: 200;
+    font-size: 18px;
+    font-family: "Anton", sans-serif;
+  }
+  
+  input[type="submit"] {
+    background-color: #FF0000;
+    color: #e5e5e5;
+    font-weight: 400;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  select {
+    font-family: "Roboto Mono", monospace;
+    width: 100%0;
+    border: 1px solid #ced4da;
+    font-weight: 200;
+    font-size: 18px;
+  }
+  
+  footer {
+    font-weight: 100;
+  }
+  
+  #nicka {
+    float: left;
+    font-family: "Anton", sans-serif;
+    text-align: center;
+    width: 250px;
+    background-color: #ced4da;
+    border: 1 px solid #ced4da;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  
+  .logo {
+    border-radius: 20% 20% 20% 20%;
+  }
+  
+  .option {
+    font-family: "Roboto Mono", monospace;
+  }
+  .btn {
+    margin-top: 100px;
+  }
+  
+  
